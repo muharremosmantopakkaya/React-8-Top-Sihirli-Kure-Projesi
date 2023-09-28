@@ -2,6 +2,8 @@
 
 Bu proje, sıkça bilinen "8 top" sihirli küre oyununun React ile geliştirilmiş bir versiyonudur. Kullanıcıya, büyük topa tıkladığında rastgele mesajlar gösterir.
 
+🌟 Bu proje, Ömer Fatih Tanrıverdi hocamızın katkılarıyla geliştirilmiştir.
+
 ## Özellikler
 
 - Tam ekran merkezde bir "büyük top" görseli.
